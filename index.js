@@ -3,6 +3,8 @@ main.remove()
 
 
 /* Create your new element here and assign it to newHeader */
+const head = document.createElement ('h1')
+header.id = 'victory'
 document.createElement('id') 
 newHeader.appendchild('id')
 
