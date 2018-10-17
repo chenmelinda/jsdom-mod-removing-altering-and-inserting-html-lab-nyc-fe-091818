@@ -3,7 +3,7 @@ main.remove()
 
 
 /* Create your new element here and assign it to newHeader */
-const head = document.createElement ('h1')
+const header = document.createElement ('h1')
 header.id = 'victory'
 header.innerText = 'Melinda is the champion!'
 document.body.appendChild(header)
