@@ -7,4 +7,4 @@ const head = document.createElement ('h1')
 header.id = 'victory'
 header.innerText = 'Melinda is the champion!'
 document.body.appendChild(header)
-const newHeader = document.querySelector('h1');
+const newHeader = document.querySelector('#victory');
