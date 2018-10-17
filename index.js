@@ -6,7 +6,5 @@ main.remove()
 const head = document.createElement ('h1')
 header.id = 'victory'
 header.innerText = 'Melinda is the champion!'
-document.createElement('id') 
-newHeader.appendchild('id')
-
+document.body.appendChild(header)
 const newHeader = null;
